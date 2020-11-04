@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Seriport_veriokuma\Seriport_veriokuma\bin\Debug\Seriport_veriokuma.exe.config
+C:\Users\PC\source\repos\Seriport_veriokuma\Seriport_veriokuma\bin\Debug\Seriport_veriokuma.exe
+C:\Users\PC\source\repos\Seriport_veriokuma\Seriport_veriokuma\bin\Debug\Seriport_veriokuma.pdb
+C:\Users\PC\source\repos\Seriport_veriokuma\Seriport_veriokuma\obj\Debug\Seriport_veriokuma.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Seriport_veriokuma\Seriport_veriokuma\obj\Debug\Seriport_veriokuma.Form1.resources
+C:\Users\PC\source\repos\Seriport_veriokuma\Seriport_veriokuma\obj\Debug\Seriport_veriokuma.Properties.Resources.resources
+C:\Users\PC\source\repos\Seriport_veriokuma\Seriport_veriokuma\obj\Debug\Seriport_veriokuma.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Seriport_veriokuma\Seriport_veriokuma\obj\Debug\Seriport_veriokuma.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Seriport_veriokuma\Seriport_veriokuma\obj\Debug\Seriport_veriokuma.exe
+C:\Users\PC\source\repos\Seriport_veriokuma\Seriport_veriokuma\obj\Debug\Seriport_veriokuma.pdb
